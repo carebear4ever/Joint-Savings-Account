@@ -16,3 +16,12 @@ To automate the creation of joint savings accounts, you’ll create a Solidity s
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
 
+<img width="379" alt="Screenshot 2024-02-08 at 3 13 29 PM" src="https://github.com/carebear4ever/Joint-Savings-Account/assets/141070883/ba09b737-c9d4-4d10-b62c-61e923c7f7f5">
+
+<img width="1421" alt="Screenshot 2024-02-08 at 3 07 52 PM" 
+src="https://github.com/carebear4ever/Joint-Savings-Account/assets/141070883/4e5712eb-72ac-400b-8113-f321a5e94b57">
+
+<img width="1409" alt="Screenshot 2024-02-08 at 2 45 28 PM" src="https://github.com/carebear4ever/Joint-Savings-Account/assets/141070883/cdf2789b-541c-41a3-9bc2-ff62689bd2fc">
+
+<img width="1439" alt="Screenshot 2024-02-06 at 1 04 08 PM" src="https://github.com/carebear4ever/Joint-Savings-Account/assets/141070883/0e3e9f63-8c9f-493f-ae71-debc4c74afa6">
+
